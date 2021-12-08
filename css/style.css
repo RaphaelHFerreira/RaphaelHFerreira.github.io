@@ -1,6 +1,6 @@
-@import "/cinema/background/portfolio/css/global.css";
-@import "/cinema/background/portfolio/css/header.css";
-@import "/cinema/background/portfolio/css/introducao.css";
-@import "/cinema/background/portfolio/css/experiencia.css";
-@import "/cinema/background/portfolio/css/formacao.css";
-@import "/cinema/background/portfolio/css/footer.css";
+@import "./global.css";
+@import "./header.css";
+@import "./introducao.css";
+@import "./experiencia.css";
+@import "./formacao.css";
+@import "./footer.css";
